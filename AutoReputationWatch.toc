@@ -1,0 +1,6 @@
+## Interface: 40000
+## Title: Auto Reputation Watch
+## Version: 1.0
+## Author: Rinuwise
+## Notes: Automatically changes watched reputation whenever you gain reputation.
+AutoReputationWatch.lua

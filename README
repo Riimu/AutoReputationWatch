@@ -1,0 +1,19 @@
+Auto Reputation Watch
+
+================================================================================
+Description
+
+A simple addon that switches the currently watched reputation whenever you gain
+reputation in another faction.
+
+================================================================================
+Installation
+
+Install the addon by copying the folder to your wow\interface\addons folder. The
+addon has no configuration and works as longs as it's enabled.
+
+================================================================================
+Credits
+
+Copyright (C) 2010 to Rinuwise
+see COPYING for license information
