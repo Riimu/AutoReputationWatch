@@ -10,7 +10,11 @@ reputation in another faction.
 Installation
 
 Install the addon by copying the folder to your wow\interface\addons folder. The
-addon has no configuration and works as longs as it's enabled.
+addon is intended to work without configuration, so nothing else is needed.
+However, there are few settings that can be changed in game.
+
+For in game configuration, use "/arw" or "/autoreputationwatch" to see possible
+commands.
 
 ================================================================================
 Credits

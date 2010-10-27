@@ -1,0 +1,13 @@
+v1.1
+
+- ARW will now look for factions within collapsed groups
+- Added Slash commands
+	* "/arw" prints out slash commands and version
+	* "/arw ignore <faction>" ignores faction from auto watch
+	* "/arw unignore <faction>" enables auto watching faction
+	* "/arw verbose <on/off>" makes ARW inform about faction changes
+	* "/arw hidden <on/off>" can be used to prevent looking into collapsed groups
+
+v1.0
+
+- First public release

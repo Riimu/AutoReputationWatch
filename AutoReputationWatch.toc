@@ -1,6 +1,8 @@
 ## Interface: 40000
 ## Title: Auto Reputation Watch
-## Version: 1.0
+## Version: 1.1
 ## Author: Rinuwise
 ## Notes: Automatically changes watched reputation whenever you gain reputation.
+## SavedVariables: ARW_FindHiddenFactions, ARW_VerboseSwitch, ARW_IgnoredFactions
 AutoReputationWatch.lua
+SlashCommands.lua
